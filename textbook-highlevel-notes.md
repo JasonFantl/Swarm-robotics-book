@@ -120,6 +120,7 @@ Break chapters into seperate pages, it lets people organize themselves. Like fey
 
 Make it beautiful, like the Euclids elements book. This is not necessary, but would be nice.
 
+Writting advice from Helena: Make sure your sentences chain together, especially the topics of the sentence. "I saw a cat in a store. The cat was blue" < "I was in a store and saw a cat. The cat was blue."
 
+People really like examples, include as many as you can
 
-https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2020.00036/full

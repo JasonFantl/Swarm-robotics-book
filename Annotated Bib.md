@@ -49,3 +49,8 @@ https://research-information.bris.ac.uk/ws/portalfiles/portal/179145034/aau9178_
 ## Task Allocation in Ant Colonies
 
 https://people.cs.georgetown.edu/~cnewport/teaching/cosc844-spring17/pubs/ants-task.pdf
+
+
+## Swarm Robotic Behaviors and Current Applications
+
+https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2020.00036/full
