@@ -2,6 +2,8 @@
 
 The design philosophy is based in large part on my personal experience reading textbooks, but I have also listed some design decisions based on research.
 
+Make certain to test everything across browsers and devices and viewers, html can be finicky.
+
 ## Text format
 
 Book will be html/css/js files, should be viewable on any device. Potentially one giant html file for easy viewability.
