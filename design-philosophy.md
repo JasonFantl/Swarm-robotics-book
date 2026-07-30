@@ -56,6 +56,10 @@ Make as many of the figures SVGs as possible, much cleaner. It also allows for t
 
 User should always have control over an animation. They can scrub thorugh it, pause it, slow down the speed. Each reader will need to focus on different sections of an animation, wach reader will best learn at different animation speeds.
 
+Make sure we do whatever html/css trickery is needed so the figures take up the correct amount of space on screen even before they load. It is a peeve of mine when we see pages grow in size in reponse to images. It is a static page, it should be statically sized when it loads.
+I think as long as we include the width and height of the image in the html this will work.
+
+Animations should be video files. This makes them easy to control and to copy. In the source repo there should be the source code to generate the animation.
 
 ## Book layout & navigation
 
@@ -86,6 +90,8 @@ Answer sheet at end of book. Make sure there is enough cognitive effort to preve
 I want to interview professors and PhD students in the field to influence the chapters of this book. I am curious what got them excited about swarm stuff, what excites them now, and what topics they would love to see visualized. What would they be excited to show to their family or friends?
 
 Professors I would additionally like to ask what they typically teach (can I get slides?) so I can see what figures they would be interested in.
+
+Test-run the first two chapters with actual readers. Collect as much feedback as possible. These design decisions are currently based off research and my personal experience, but the best source of design constraints will be from real readers.
 
 ## References
 
