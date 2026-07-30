@@ -33,7 +33,7 @@ Make sure to number the important equations so we can refernce them. Ideally thi
 Add color to equations to match terms of equations of markers in figures. Use a color-vision-deficiency-safe palette.
 
 Equations/math in general should be copy-pastable. It also needs to be easy to read. This means tex rendering with a copy-option. Also test for voice-to-text, makes it more accessable. This is apparently [difficult](https://news.ycombinator.com/item?id=6380187), need to be careful how I format the equations.
-=> It seems that a javascript handler might the best way to do this, 
+=> It seems that a javascript handler might the best way to do this, see `Tooling/Experiments/equations-copy-paste`
 
 ## Figures
 
