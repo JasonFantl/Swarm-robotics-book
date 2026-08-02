@@ -1,5 +1,12 @@
 
 
+Algorithms inspired by nature
+Voting (bees)
+Ants allocation
+Termite construction
+...
+
+
 Boids
 
 
@@ -17,7 +24,6 @@ Consensous and diversity (agreeing, task assignment)
 
 Morphogensis
 
-Voting (bees)
 
 
 
@@ -36,3 +42,5 @@ Turning patterns
 Self-organizing critical systems (sand piles, forest fires)
 
 Voter model
+
+programming: State machines, behavior trees, physical (no programming, use shape and material science)

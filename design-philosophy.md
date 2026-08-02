@@ -63,6 +63,10 @@ I think as long as we include the width and height of the image in the html this
 
 Animations should be video files. This makes them easy to control and to copy. In the source repo there should be the source code to generate the animation.
 
+We should try to maintain a consistent visual language across all figures. Use the same color for the same measure (like time or number of nodes), use the same symbols to mean the same thing, and keep legend styles consistent scross chapters. 
+
+Ensure to cite where a figure was inspired or copied (remade in our visual language) from.
+
 ## Book layout & navigation
 
 This is targeted at novices in the field, for whom it has been shown that a strict linear reading order is most effective (McDonald & Stevenson 1998; Amadieu et al. 2009; Kalyuga 2007). Each chapter and section will be its own file, so it could in theory be a graph or tree, but we will stick to a linear reading order with chapters and sub-sections.
@@ -76,6 +80,18 @@ There will also be a single-page version, this is easier to ctrl-f to find conte
 A wonderful example of this structure (and lots of visuals) at https://www.feynmanlectures.caltech.edu/ (Gottlieb & Pfeiffer 2013).
 
 We want to make sure the book is easy to navigate. We could add javascript to make a navigation bar, but I also want this to be as portable as possible, and a nav bar might act strange on different devices. Instead we should keep the navigation as simple as possible: A page for the table of contents, each section is a page, links from each section to the table of contents (at the chapter we are in) and links to the next and previous section. We may not even need the next/prev buttons, navigating to the TOC is minimal work and allows the reader to track easily the progress they are making, similar to seeing the thickness of a book as you read through it. Elaborate graphical overviews can reduce comprehension (Salmerón et al. 2009).
+
+## Writting style
+
+People love examples, we should ensure to include as many as possible.
+
+The field is highly interdisiplinary, inspiration can be found in many new places, we should mention and link to related areas of study whenever possible.
+
+I have always found that a short paragraph or two on the history of a topic or algorithm can help make it more memerable and humanizing. Talking about an equation in its platonic form is more concise and clear. I think we can have history in the intro, and when getting into the details we make things as concise as possible.
+
+
+
+## Assumed audience
 
 ## Practice problems
 
