@@ -26,21 +26,11 @@ https://www.feynmanlectures.caltech.edu/
 
 Really well organized, has the structure I want, has lots of visuals, really well explained.
 
-## Introduction to Autonomous Robots
-
-https://batch.libretexts.org/print/Letter/Finished/eng-14766/Full.pdf
-
-TODO
-
 ## Lectures on Network Systems
 
 https://fbullo.github.io/lns/
 
-TODO
-
-## Introduction to Autonomous Mobile Robots
-
-TODO
+Deep theoretical coverage of the math behind some multi-agent algorithms. Focused more on the statistics and linear algebra of theoretical models. Will be useful as a reference for some algorithms.
 
 ## Engineering Autonomous Swarms: Drones, Robots, and Collective Intelligence: Design, Coordination, and Innovation in Multi-Robot Systems
 
@@ -48,10 +38,9 @@ TODO
 
 ## Autonomous Mobile Robots and Multi-Robot Systems: Motion-Planning, Communication, and Swarming
 
-TODO
+First half is about robotics in general, the second half is on swamring. Each chapter is independently authored, which allows it to be in-depth, but provides no narrative structure.
 
 # Blogs
-
 
 ## Complexity Explorables
 
@@ -82,7 +71,7 @@ https://people.cs.georgetown.edu/~cnewport/teaching/cosc844-spring17/pubs/ants-t
 
 https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2020.00036/full'
 
-# Videos
+# Lectures
 
 ## Mobile Robot Systems Course
 [ FAVORITE ]
@@ -96,4 +85,14 @@ A 10 video course on mobile robot systems. Taught by one of the founding researc
 
 https://www.epfl.ch/labs/disal/teaching/distributed_intelligent_systems/
 
-TODO
+Lectures and excersises
+
+## Autonomy Talks
+
+https://www.youtube.com/@autonomytalks
+
+Guest lecture videos from professors and students about their work in the multi-agent field, speaking to other academics. Very niche topics.
+
+## Bio-Inspired Coordination of Multi-Agent Systems
+
+A single course, very short.
