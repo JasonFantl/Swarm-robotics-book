@@ -60,6 +60,12 @@ Provide supplementaly material as youtube videos, which will lean more heavily o
 
 Should I offer to pay professors for their advice on what topics to focus on, or access to their teaching materials? I woudl like to at least offer, it seems fair to compensate.
 
+Focus on emergence, self organization, scalability, and self-healing. Nature does this very well, we can learn much from those systems, but we have a different medium and constraints, we can take inspiration when we build our algorithms.
+
+Look to systems that scale well: Economics, immune system, animals, insects, morphogensis (plants too), internet, traffic networks, physics. These systems have been shown to work with thousands to billions of agents, the biological systems even scale to trillions of cells interacting, physics applied to atoms. Note that we do not fully understand all these systems, we just draw inspiration from them. Swarm robotics draws inspiration from all of these fields. (we should mention cybernetics)
+
+Communication ladder might be a good structure. Can be refined some more.
+
 # Why
 
 I am more passionate about decentralized systems then any other topic, I have been leanring and publishing and workign in the field for 8 years now. I wish dearly that others could see the beauty in these self-healing scalable systems that lack a single point of failure, these systems that mirror the behaviors independently developed in nature (nature is heavily decentralized). I saw the possiblilty at NASA as they build an interplanatry network, at Anduril where they are building reseilient drone swarms, and all around us in the bees and ants and plants. Due to the scalable nature of these protocols, we see these behaviors range from the micro level in nano-particles, to cars in cities, and even up to the interplanatary systems being built for the future.

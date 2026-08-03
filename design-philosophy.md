@@ -81,6 +81,8 @@ A wonderful example of this structure (and lots of visuals) at https://www.feynm
 
 We want to make sure the book is easy to navigate. We could add javascript to make a navigation bar, but I also want this to be as portable as possible, and a nav bar might act strange on different devices. Instead we should keep the navigation as simple as possible: A page for the table of contents, each section is a page, links from each section to the table of contents (at the chapter we are in) and links to the next and previous section. We may not even need the next/prev buttons, navigating to the TOC is minimal work and allows the reader to track easily the progress they are making, similar to seeing the thickness of a book as you read through it. Elaborate graphical overviews can reduce comprehension (Salmerón et al. 2009).
 
+We should include an alternative TOC for the typical reading order, as opposed to our communicaiton-based reading order. This could be useful for teachers. This should be in a seperate notes file, not a part of the book.
+
 ## Writting style
 
 People love examples, we should ensure to include as many as possible.
